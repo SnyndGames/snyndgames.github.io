@@ -178,6 +178,10 @@ html{
         height: auto;
         margin: auto;
     }
+    .officialMiadLaunch-news{
+        background-image: url(../Images/SavaneBackground.png);
+        border: #fff solid .5vh;
+    }
     .news-description{
         font-size: 3vh;
     }
@@ -508,6 +512,9 @@ html{
     }
     .miadlaunchAd-news .news-description-container::before{
         background-image: url(../Images/SnowBackground.png);
+    }
+    .officialMiadLaunch-news .news-description-container::before{
+        background-image: url(../Images/SavaneBackground.png);
     }
     .news-subtitle{
         font-size: 10vw;
