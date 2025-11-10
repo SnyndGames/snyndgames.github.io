@@ -580,7 +580,7 @@ html{
     .contact{
         width: 20vh;
         height: 20vh;
-        border-radius: 50%;
+        border-radius: 80px;
         background: rgba(0,0,0,393);
         backdrop-filter: blur(8px);
         text-align: center;
